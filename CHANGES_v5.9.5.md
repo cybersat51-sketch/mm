@@ -1,0 +1,1 @@
+Player back arrow: visible at playback start for 10 seconds; hides automatically; touching video reveals it for another 10 seconds. Preserves player gestures, fullscreen mode and existing back action.

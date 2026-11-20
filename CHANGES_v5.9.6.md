@@ -1,0 +1,1 @@
+v5.9.6: Live channel previous/next buttons are icon-only, centered as an overlay on the video. Bottom bar retains EPG, favorites and retry as icon-only controls. Overlay auto-hides after 10 seconds and reappears when video is touched. Existing switching callbacks preserved.
